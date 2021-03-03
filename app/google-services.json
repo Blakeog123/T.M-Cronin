@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1000724634340",
+    "firebase_url": "https://tm-cronin.firebaseio.com",
+    "project_id": "tm-cronin",
+    "storage_bucket": "tm-cronin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000724634340:android:2f1c724fe322190f32eaf1",
+        "android_client_info": {
+          "package_name": "com.example.tmcronin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000724634340-af5hk3in6rkhqlg15s7hl7ncgbi2mduj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tmcronin",
+            "certificate_hash": "315bfd192cc3b5be0eced043e6be7f426a7dc9f7"
+          }
+        },
+        {
+          "client_id": "1000724634340-tsmft6822ocf99vjg112pije39tmdeet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mYH7mV2VP-3-7IQwhmBzI7JWRxikkwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000724634340-tsmft6822ocf99vjg112pije39tmdeet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Code acquired from Youtube tutorial https://www.youtube.com/watch?v=ZYXsHCK6fpo
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#FF0000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorTransparentWhite">#cccccc</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPD">#262938</color>
+    <color name="colorP">#181A24</color>
+</resources>
