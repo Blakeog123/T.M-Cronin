@@ -53,7 +53,6 @@ dependencies {
     implementation 'com.squareup.picasso:picasso:2.71828'
     // code : https://android-arsenal.com/details/1/4136 for quantity of products in product_details
     implementation 'com.cepheuen.elegant-number-button:lib:1.0.2'
-    implementation 'com.google.android.gms:play-services-maps:17.0.0'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
